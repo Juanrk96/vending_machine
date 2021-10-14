@@ -1,0 +1,32 @@
+.vending {
+    border: none;
+    border-radius: 8px;
+    /*background: url('https://logodix.com/logo/786233.png') no-repeat, linear-gradient(to right, #A74CF2, #617BFB);*/
+}
+
+.Fitness-User-Info {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 200px;
+}
+
+.table__arrangement {
+    margin:25px;
+    overflow:auto;
+}
+
+.scroll{
+    overflow:auto;
+}
+
+.stick{
+    position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}
+
+.centered {
+    display: block;
+    align-items: center;
+    justify-content: center;
+}
